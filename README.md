@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi there 👋 👋 Salut, moi c’est Théo Nidos 👨‍💻 À propos de moi 🎓 Étudiant en BUT Informatique à l’IUT de Limoges.
+Hi there 👋 👋 Salut, moi c’est Glemarec Francois👨‍💻 À propos de moi 🎓 Étudiant en BUT Informatique à l’IUT de Limoges.
 
 💡 Passionné par l’informatique, le développement logiciel et le numérique, je réalise des projets personnels et universitaires pour approfondir mes compétences.
 
